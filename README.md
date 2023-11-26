@@ -16,11 +16,7 @@
     </nav>
     Hello, world! This is my personal page hosted on GitHub pages.
 
-    <br/> 
-    <br/>
-    <footer>
-      <p>&copy; 2023 SHIVam Laidwar</p>
-    </footer>
+  
   </body>
 </html>
 
